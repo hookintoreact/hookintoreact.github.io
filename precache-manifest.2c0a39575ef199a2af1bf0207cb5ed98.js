@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/nunito-latin-600.e57dde6f.woff2"
   },
   {
-    "revision": "4e3e35e0ed4083636ce3",
-    "url": "/static/js/main.4e3e35e0.chunk.js"
+    "revision": "e45489c831e37f75197a",
+    "url": "/static/js/main.e45489c8.chunk.js"
   },
   {
     "revision": "2ebb1fcb479acc2f6fc58d9a89295bdf",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.0a9c7789.chunk.css"
   },
   {
-    "revision": "5ebdc768d84444d4b9e7dd19a583bcd3",
+    "revision": "036cdcde01d776c97aad38a44e2d1522",
     "url": "/index.html"
   }
 ];
